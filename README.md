@@ -56,3 +56,9 @@ To publish your library to [npm](https://www.npmjs.com):
 ```bash
 npm publish
 ```
+
+
+-------------------------------------------------
+# Portfolio Project
+
+As this project begins to build out, I am looking to revisit my old portfolio and rebuilding it from scratch, of course using other various methods to build it, host it, and link it to other sites as well.
